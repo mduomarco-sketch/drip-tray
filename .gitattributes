@@ -1,0 +1,5 @@
+*.step -text
+*.stl -text
+*.3mf binary
+*.gcode -text
+*.json -text

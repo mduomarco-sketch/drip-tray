@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Scratch renders / checks
+tmp/
+
+# Archives and OS junk
+*.zip
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Personal photos
+*.jpeg
+*.jpg
+# ...excepto las fotos del README (sin metadatos)
+!fotos/*.jpg
