@@ -1,9 +1,9 @@
 # Una bandeja a medida para una cesta de forja
 
 Tengo una cesta de forja para plantas con forma de **estadio**: dos lados rectos
-y los extremos redondeados. Quería una bandeja que recogiera el agua del riego y
-ocupara todo el fondo, así que la diseñé a medida y la imprimí en 3D. Este es el
-proceso.
+y los extremos redondeados. Dentro va una jardinera, y quería una bandeja
+debajo que recogiera el agua del riego y ocupara todo el fondo, así que la
+diseñé a medida y la imprimí en 3D. Este es el proceso.
 
 ![La bandeja montada](imagenes/montada.png)
 
@@ -26,12 +26,13 @@ Este ancho es también el diámetro de los extremos redondeados.
 Con un ancho de 19 cm, los extremos redondeados suman 19 cm, así que el
 **tramo recto mide 40 cm** (59 − 19).
 
-### La cesta por dentro
+### La jardinera dentro de la cesta
 
-<img src="fotos/03-recipiente-rectangular.jpg" width="480" alt="Recipiente rectangular dentro de la cesta">
+<img src="fotos/03-jardinera.jpg" width="480" alt="Jardinera dentro de la cesta de forja">
 
-Un recipiente rectangular no aprovecha los extremos redondeados de la cesta,
-por eso la bandeja tenía que seguir su forma.
+La jardinera es rectangular, pero el fondo de la cesta tiene los extremos
+redondeados. Para recoger bien el agua, la bandeja tenía que seguir la forma de
+la cesta y no la de la jardinera.
 
 ---
 
